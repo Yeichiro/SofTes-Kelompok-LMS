@@ -98,7 +98,7 @@ session_start();
                     <input id="form" type="password" class="form-control" size="20" name="password" placeholder="Masukkan Password" id="exampleInputPassword1" required>
                 </div>
             </div>
-            <!--tombol-->
+            <!--tombol page forgot password-->
             <div class="d-grid gap-3 col-10 mx-auto" style="padding: 0px 12px 21px 12px;border: radius 10px;" :>
                 <button class="btn btn-light" type="submit" name="login" style="border: radius 10px; width: 179px;">Masuk</button></a>
                 <a href="Forgotpass.php"><button class="btn btn-light" type="button" style="border: radius 10px; width: 179px;">Lupa Password</button></a>
